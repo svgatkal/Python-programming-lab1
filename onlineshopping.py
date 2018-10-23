@@ -1,3 +1,4 @@
+#snehal gatkal=11810225
 from easygui import *
 import sys
 while 1:
@@ -10,7 +11,7 @@ while 1:
     if choice=='chocalate':
       msg1="types of chocalate"
       title1="available options"
-      choices1=['perk','5 star']
+      choices1=['perk','5 star','dairy milk']
       choice1=choicebox(msg1,title1,choices1)
     elif choice=='biscuit':
       msg1='types of bisciut'

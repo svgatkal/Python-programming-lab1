@@ -1,4 +1,5 @@
-#import random
+#snehal gatkal 11810225
+import random
 from random import randint as rt
 out=0
 faces=6

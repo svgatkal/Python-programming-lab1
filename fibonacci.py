@@ -1,3 +1,4 @@
+#snehal gatkal 11810225
 nterms=10
 n1=0
 n2=1
